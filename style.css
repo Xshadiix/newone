@@ -3,5 +3,13 @@ body {
 }
 
 p {
-    color: black;
+    color: wheat;
+}
+
+h3 {
+     background-color: blueviolet;
+}
+
+.hat {
+    background-color: sienna;
 }
