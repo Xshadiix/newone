@@ -1,0 +1,13 @@
+a:hover{
+    background-color: slateblue;
+}
+
+h4:hover{
+    color: darkgreen;
+    font-size: 0.3rem;
+}
+
+.mylink{
+    /*text-decoration: none;*/
+    text-decoration:line-through;
+}
