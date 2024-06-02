@@ -1,0 +1,29 @@
+.sh{
+    width: 200px;
+    height: 200px;
+    background-color: darkblue;
+    color: wheat;
+    border: 10px ridge red;
+    border-bottom: none;
+    border-top: 30px solid slateblue;
+    border-radius: 30px;
+}
+
+.test{
+    background-color: slateblue;
+    color: wheat;
+    height: 300px;
+    width: 400px;
+    border-radius: 30px;
+    border: 20px double black;
+    padding: 30px;
+    margin: 50px;
+}
+
+p{
+    color: #c2ac6e ;
+    background-color: rgb(74, 96, 130);
+    border: 20px hsl(304, 36%, 48%);
+    height: 100px;
+    width: 100px;
+}
