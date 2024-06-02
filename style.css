@@ -1,0 +1,15 @@
+p{
+    background-color: darkblue;
+    display: inline;
+}
+
+span{
+    background-color: darkred;
+    display: inline-block;
+}
+
+div{
+    background-color: slateblue;
+    display:
+    inline;
+}
