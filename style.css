@@ -1,4 +1,5 @@
 div{
+    background-color: darkred;
     height: 200px;
     width: 200px;
     /*padding: 20px;*/
@@ -18,4 +19,9 @@ div{
     margin-top: 15px; */
 
     margin: 15px 10px 25px 20px;
+}
+
+div:hover{
+    background-color: darkblue;
+    border-radius: 50px;
 }
