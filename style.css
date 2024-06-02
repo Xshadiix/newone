@@ -13,3 +13,17 @@ h2{
     width: 500px;
     border-radius: 1px 10px 100px 50px;
 }
+
+h1{
+    background-color: slateblue;
+    height: 300px;
+    width: 400px;
+}
+
+h1:hover{
+    background-color: darkred;
+    height: 600px;
+    width: 800px;
+    padding: 40px;
+    border-radius: 50px;
+}
