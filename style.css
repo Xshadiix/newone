@@ -1,0 +1,18 @@
+ul {
+    background-color: darkblue;
+}
+
+ul a {
+    color: wheat;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 10px;
+    display: inline-block;
+}
+
+ul a:hover{
+    color: gray;
+}
+ul li {
+    display: inline;
+}
