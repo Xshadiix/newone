@@ -48,3 +48,28 @@ absolute
     position: absolute;
     left: -100px;
 }
+
+h1{
+    text-align: center;
+    border-bottom: 10px dotted #ccc;
+    padding: 10px 10px 20px;
+}
+
+nav{
+    text-align: center;
+    padding: 10px;
+    background-color: slategray;
+    position: sticky;
+    top: 0;
+}
+
+nav ul li{
+    text-decoration: none;
+    display: inline-block;
+    background-color: grey;
+}
+
+article{
+    width: 200px;
+    margin: auto;
+}
